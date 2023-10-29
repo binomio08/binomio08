@@ -53,13 +53,13 @@
 <p align="left"> 
 &emsp;
   <a href="https://learn.microsoft.com/es-es/dotnet/" target="_blank"> 
-     <img alt=".Net" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
+     <img alt=".Net" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" height="34" width="50">
    </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
-    <a href="https://learn.microsoft.com/es-es/sql/?view=sql-server-ver16"><img alt="SQL_Server" src="https://console.cloudinary.com/pm/c-4d36a80f89bd39eb41bc6aaee4e056/media-explorer?assetId=c1d3ace8c3a8bcc2e817aaa9a638a92f" height="30" width="40"></a>
+    <a href="https://learn.microsoft.com/es-es/sql/?view=sql-server-ver16"><img alt="SQL_Server" src="https://res.cloudinary.com/dc8mx3c8d/image/upload/v1698540765/qfg16la15xyq6vgfaxjf.svg" height="30" width="40"></a>
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="30" width="40"/></a>
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="30" width="40"></a>
  </p>

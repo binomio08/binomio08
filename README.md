@@ -8,7 +8,7 @@
 
 - 🌱 I am currently learning C# . Net and Web Development with ASP.Net
 
-- 📫 How to reach me **binomio08@hoymail.com**
+- 📫 How to reach me **binomio08@hotmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 

@@ -39,11 +39,9 @@
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/">
     <img alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"height="30" width="40"/>
   </a>
-&emsp;
 <a href="https://python.org/">
     <img alt="PY" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" width="40"/>
   </a>
-  &emsp;
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img alt="JS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" height="30" width="40"/>
   </a>
@@ -54,37 +52,16 @@
 ### 👉 Frameworks
 <p align="left"> 
 &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <a href="https://learn.microsoft.com/es-es/dotnet/" target="_blank"> 
+     <img alt=".Net" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
    </a>
-  &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+    <a href="https://learn.microsoft.com/es-es/sql/?view=sql-server-ver16"><img alt="SQL_Server" src="https://console.cloudinary.com/pm/c-4d36a80f89bd39eb41bc6aaee4e056/media-explorer?assetId=c1d3ace8c3a8bcc2e817aaa9a638a92f" height="30" width="40"></a>
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="30" width="40"/></a>
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="30" width="40"></a>
  </p>
 
  ### 👉 Software & Tools

@@ -59,7 +59,7 @@
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
-    <a href="https://learn.microsoft.com/es-es/sql/?view=sql-server-ver16"><img alt="SQL_Server" src="https://res.cloudinary.com/dc8mx3c8d/image/upload/v1698540765/qfg16la15xyq6vgfaxjf.svg" height="30" width="40"></a>
+    <a href="https://learn.microsoft.com/es-es/sql/?view=sql-server-ver16"><img alt="SQL_Server" src="https://res.cloudinary.com/dc8mx3c8d/image/upload/v1698540765/qfg16la15xyq6vgfaxjf.svg" height="30" width="40" Color=white></a>
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="30" width="40"/></a>
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="30" width="40"></a>
  </p>

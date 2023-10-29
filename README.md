@@ -37,11 +37,11 @@
   
 
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/">
-    <img alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" height="30" width="40"/>
+    <img alt="C#" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"height="30" width="40"/>
   </a>
 &emsp;
 <a href="https://python.org/">
-    <img alt="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="py" height="30" width="40"/>
+    <img alt="PY" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" width="40"/>
   </a>
   &emsp;
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">

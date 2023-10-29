@@ -82,5 +82,4 @@
     <a href="#"><img alt="Html" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="30" width="40"></a>
     
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
